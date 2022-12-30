@@ -1,0 +1,18 @@
+{
+  "name": "atomicaimagegenerator",
+  "version": "1.0.0",
+  "description": "This program is made to generate 5001 unique images for Crypto Atomica NFT collection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Takuhatsu",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.0",
+    "merge-images": "^2.0.0",
+    "node-gyp": "^9.3.1",
+    "node-pre-gyp": "^0.17.0",
+    "random-js": "^2.1.0"
+  }
+}
