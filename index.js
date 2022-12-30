@@ -93,4 +93,4 @@ function saveBase64Image(base64PngImage, filename) {
 
 
 // If tokenId starts from #1, add + 1 to needed quantaty.
-generateAtomica(30, assetsPath, outputPath)
+generateAtomica(16, assetsPath, outputPath)
